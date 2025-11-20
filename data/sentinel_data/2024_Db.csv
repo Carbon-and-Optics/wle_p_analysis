@@ -1,0 +1,10 @@
+station,month,A_T fixed (dpm/cm³),D_b (cm²/yr)
+WLE1,April,0.0,100.5
+WLE1,August,2.8874,29.8
+WLE1,June,1.9989,22.56
+WLE14,April,0.3409,200.0
+WLE14,August,1.2354,8.25
+WLE14,June,0.7833,56.48
+WLE15,April,0.3497,17.48
+WLE15,August,1.9893,23.89
+WLE15,June,0.8431,66.61

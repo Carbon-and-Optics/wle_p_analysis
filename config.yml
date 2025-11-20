@@ -1,0 +1,4 @@
+# Base directories for data inputs and generated figures.
+# Paths are resolved relative to this repository root.
+data_dir: data
+figures_dir: data/figures
