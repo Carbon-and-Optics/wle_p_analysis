@@ -24,6 +24,8 @@ pip install -r requirements.txt
 ```
 If Cartopy/GEOS/PROJ wheels are unavailable for your platform, install system packages first (e.g., `brew install geos proj gdal` on macOS or `apt-get install libgeos-dev libproj-dev gdal-bin` on Debian/Ubuntu).
 
+If you see import errors after installing, deactivate then reactivate the venv and rerun your command (e.g., `deactivate` then `source .venv/bin/activate`). Make sure you launch Jupyter/nbconvert using the venv binaries, e.g. `.venv/bin/jupyter ...`.
+
 2) Confirm `config.yml` points to your data:
 - `data_dir` — root folder containing the inputs above (defaults to `data` in this repo).
 - `figures_dir` — where plots/tables are written (defaults to `data/figures`).
