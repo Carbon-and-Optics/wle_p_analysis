@@ -1,3 +1,6 @@
+# Author: Anshula Dhiman
+# Affiliation: Biological, Geological and Environmentals SCience department, Cleveland State University
+# Date: 2025
 # Western Lake Erie Phosphorus Analysis
 
 End-to-end notebook (`analysis/manuscript_and_SI_figures_and_analysis.ipynb`) for reproducing figures and statistics on sediment resuspension and phosphorus release in western Lake Erie. All required input files live under `data/`, and outputs (figures/derived tables) are written back under `data/figures` and `data/sentinel_data`.
