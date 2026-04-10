@@ -1,5 +1,8 @@
 # Western Lake Erie Phosphorus Analysis
 
+Data and code for this study are also available at:
+https://doi.org/10.5281/zenodo.19489452
+
 End-to-end notebook (`analysis/manuscript_and_SI_figures_and_analysis.ipynb`) for reproducing figures and statistics on sediment resuspension and phosphorus release in western Lake Erie. All required input files live under `data/`, and outputs (figures/derived tables) are written back under `data/figures` and `data/sentinel_data`.
 
 ## Repository layout
